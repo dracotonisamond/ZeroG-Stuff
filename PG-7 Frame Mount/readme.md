@@ -2,6 +2,7 @@
 just canbus things
 
 Uses 8mm M5 SHCS
+also has a hole for a "PC4-M10" with 1/8 BSP threads
 
 ![Screenshot 2023-03-26 233032](https://user-images.githubusercontent.com/5184392/227860022-28125ce5-54cb-4a55-b2f9-88fa5c8824ce.png)
 
